@@ -34,7 +34,7 @@ Please make sure to update the documentation if your changes affect it. If you'r
 
 ## Communication
 
-You can reach the development team and other contributors on [chat/forum/mailing list]. We encourage all contributors to join our [mailing list](https://groups.google.com/your-group-name) or [slack channel](https://your-slack-channel.slack.com) for updates and to discuss the development of the project.
+You can reach the development team and other contributors on [chat/forum/mailing list]. We encourage all contributors to join our [Discussions](https://github.com/orgs/packershift/discussions) or [Discord Channel](https://discord.gg/guK7UMyKMD) for updates and to discuss the development of the project.
 
 ## Code review
 
